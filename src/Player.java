@@ -1,5 +1,10 @@
+/**
+ * Name: Attal
+ * Date: 05/07/2024
+ * File: Player.Java
+ * Description: This file focuses on the players of the bowling game with methods to manage the score
+*/
 public class Player {
-    private String playerName;
     private int score;
     private int frame;
 
@@ -9,7 +14,6 @@ public class Player {
      * @param playerName The name of the player
      */
     public Player (String playerName) {
-        this.playerName = playerName;
         this.score = 0;
         this.frame = 1;
     }

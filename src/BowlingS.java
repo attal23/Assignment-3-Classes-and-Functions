@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
 /**
- *
  * Name: Attal Mumin
- * Date: [Date]
- * Purpose: Simulates a bowling game between two players over 10 frames.
+ * File: BowlingS.Java
+ * Date: 05/07/2024
+ * Description: Simulates a bowling game between two players over 10 frames.
  */
-public class BowlingScore {
+public class BowlingS {
     public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);
 
